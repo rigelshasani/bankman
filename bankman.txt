@@ -1,0 +1,4 @@
+//bankman is short for bank management system, the project name.
+//Rigels Hasani
+//8/16/2023
+//Toronto,Ontario
